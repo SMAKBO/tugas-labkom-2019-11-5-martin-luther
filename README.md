@@ -1,5 +1,5 @@
-# tugas-labkom-2019-xi-5-martin-luther
-tugas-labkom-2019-xi-5-martin-luther created by GitHub Classroom
+# tugas-labkom-2019-11-5-martin-luther
+tugas-labkom-2019-11-5-martin-luther created by GitHub Classroom
 1. Daniel Arpila Nugraha Damanik 17.63.08619
 2. Anita Lubis 17.63.08595
 3. Azna Aprilia Nur Islami 17.63.08608
